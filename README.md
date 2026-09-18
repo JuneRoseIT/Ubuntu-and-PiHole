@@ -55,7 +55,7 @@ On my Windows computer, I downloaded the current Ubuntu Server LTS ISO. An ISO i
 I saved the ISO somewhere easy to find because it would be selected later in Rufus.
 
 ## Step 2 - Create a Bootable USB with Rufus
-
+![Creating the Ubuntu Server USB with Rufus](01-rufus-usb-creation.jpg)
 I connected a USB flash drive to my Windows computer and opened **Rufus**.
 
 In Rufus I:
